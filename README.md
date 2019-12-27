@@ -21,6 +21,12 @@ The flow of the program is as follows:
 -Built in Libraries :
   1. JSON
   2. DIFFLIB
+  
+## Usage:
+  ![Test Case 1; ](https://github.com/Saurav-Shrivastav/Dictionary--Mini-Project-in-Python/blob/master/Capture1.PNG)  
+  ![Test Case 2; ](https://github.com/Saurav-Shrivastav/Dictionary--Mini-Project-in-Python/blob/master/Capture2.PNG) 
+  ![Test Case 3; ](https://github.com/Saurav-Shrivastav/Dictionary--Mini-Project-in-Python/blob/master/Capture3.PNG) 
+  ![Test Case 4; ](https://github.com/Saurav-Shrivastav/Dictionary--Mini-Project-in-Python/blob/master/Capture4.PNG) 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
